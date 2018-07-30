@@ -8,7 +8,7 @@ Installation/ prerequisites
 Steps to install PBNJ:
 Download the given file or sourceforge or from github:
 Link 1: https://sourceforge.net/projects/pbnj/files/pbnj/pbnj-2.04/pbnj-2.04.zip/download?use_mirror=excellmedia&download=
-Link 2: github link 
+Link 2: File has been provided in the given project
 
 2. To Install PBNJ Properly (make sure you have the needed dependencies)	
 Go to terminal and type the following:
