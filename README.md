@@ -118,6 +118,7 @@ cd .pbnj2.0
 
 nano config.yaml
 
+![img1](https://user-images.githubusercontent.com/21034583/43381062-021a3756-93f1-11e8-8e74-b00ab2506f93.JPG)
 
 
 Set the following configuration:
