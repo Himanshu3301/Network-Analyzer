@@ -9,7 +9,7 @@ Installation/ prerequisites
 # Steps to install PBNJ:
 	Download the given file or sourceforge or from github:
 	1.Link 1: https://sourceforge.net/projects/pbnj/files/pbnj/pbnj-2.04/pbnj-2.04.zip/download?use_mirror=excellmedia&download=
-	Link 2: File has been provided in the given project
+	  Link 2: File has been provided in the given project
 
 # Make sure you have the needed dependencies)	
 Go to terminal and type the following:
@@ -68,7 +68,8 @@ The scan should run perfectly but the details are not being saved in a database
 
 ## Step 3.4: Add a user (here, bob)
 
-Type the following command to create a user called bob with a password called toor:
+Type the following command to create a user called bob with a password called toor
+NOTE->(For security reasons please refrain to use safe password policy and not the standard password, here we are using it just for educational purpose but in a real life scenerio we must follow safe password policy):
 
     mysql> GRANT SELECT,INSERT,UPDATE,CREATE ON pbnj.* 
     ->     TO 'bob'@'SERVER IP' IDENTIFIED BY 'toor';
